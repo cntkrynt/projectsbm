@@ -1,3 +1,9 @@
+**Prototype Pintu Otomatis Terintegrasi Sistem Alarm Kebakaran Sebagai Pengoptimalan Proses Evakuasi Kebakaran dalam Ruangan**
+
+Simulasi dibuat melalui tinkercad: https://www.tinkercad.com/things/7c9t1h16UOG9
+
+# code
+====================================================================================================================================
 #include <Servo.h>
 
 Servo myservo;  // definisi servo untuk dioperasikan
