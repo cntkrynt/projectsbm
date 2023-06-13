@@ -1,4 +1,4 @@
-projectsbm
+Project ini dibuat dalam mata kuliah Sistem Berbasis Mikroprosessor pada April 2023 dengan dosen pembina Ni Putu Devira Ayu Martini, S.Tr.T., M.Tr.T
 # Tujuan
  Sebagai pengoptimalan proses evakuasi kebakaran dalam ruangan dengan banyak orang.
 # Cara Kerja
@@ -7,4 +7,3 @@ projectsbm
  3. Sensor gas dan suhu yang diletakkan dalam ruangan tempat pintu otomatis tersebut juga bekerja secara realtime.
  4. Saat terdeteksi adanya gas dengan kepekatan berlebih maka buzzer akan berbunyi serta lampu merah akan menyala untuk menandakan terjadinya kebakaran dan pintu akan terbuka otomatis.
  5. Saat terdeteksi adanya kenaikan suhu yang berlebih maka buzzer akan berbunyi serta lampu merah akan menyala untuk menandakan terjadinya kebakaran dan pintu akan terbuka otomatis.
-Supervised by Ni Putu Devira Ayu Martini, S.Tr.T., M.Tr.T
