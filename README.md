@@ -2,7 +2,7 @@
 
 **Project ini dibuat dalam mata kuliah Sistem Berbasis Mikroprosessor pada April 2023 dengan dosen pembina Ni Putu Devira Ayu Martini, S.Tr.T., M.Tr.T**
 
-Simulasi dibuat melalui [Tinkercad](https://www.tinkercad.com/things/7c9t1h16UOG9).
+Simulasi dibuat melalui [Tinkercad]([https://www.tinkercad.com/things/7c9t1h16UOG9](https://www.tinkercad.com/things/7c9t1h16UOG-automatic-door-systems-with-smoke-and-fire-alarm)).
 
 ## Tujuan
  Sebagai pengoptimalan proses evakuasi kebakaran dalam ruangan dengan banyak orang.
