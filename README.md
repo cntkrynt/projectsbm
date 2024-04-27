@@ -1,7 +1,12 @@
-Project ini dibuat dalam mata kuliah Sistem Berbasis Mikroprosessor pada April 2023 dengan dosen pembina Ni Putu Devira Ayu Martini, S.Tr.T., M.Tr.T
-# Tujuan
+## Prototype Pintu Otomatis Terintegrasi Sistem Alarm Kebakaran Sebagai Pengoptimalan Proses Evakuasi Kebakaran dalam Ruangan
+
+**Project ini dibuat dalam mata kuliah Sistem Berbasis Mikroprosessor pada April 2023 dengan dosen pembina Ni Putu Devira Ayu Martini, S.Tr.T., M.Tr.T**
+
+Simulasi dibuat melalui [Tinkercad](https://www.tinkercad.com/things/7c9t1h16UOG9).
+
+## Tujuan
  Sebagai pengoptimalan proses evakuasi kebakaran dalam ruangan dengan banyak orang.
-# Cara Kerja
+## Cara Kerja
  1. Sensor PIR bekerja secara realtime dimana saat manusia terdapat dalam jangkauannya < 1m, maka pintu akan otomatis terbuka dengan lampu hijau menyala.
  2. Sensor akan melakukan delay/konfigurasi otomatis selama 5 detik. Saat tidak terdeteksi apa-apa maka pintu akan tertutup dengan memberikan sinyal lampu merah.
  3. Sensor gas dan suhu yang diletakkan dalam ruangan tempat pintu otomatis tersebut juga bekerja secara realtime.
